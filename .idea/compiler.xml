@@ -6,12 +6,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="garp-consumer" />
         <module name="garp-consumer-api" />
+        <module name="garp-provider" />
+        <module name="garp-provider-api" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="DProject" target="1.5" />
+      <module name="garp-consumer" target="1.5" />
       <module name="garp-consumer-api" target="1.5" />
+      <module name="garp-provider" target="1.5" />
+      <module name="garp-provider-api" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

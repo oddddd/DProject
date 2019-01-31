@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DProject.iml" filepath="$PROJECT_DIR$/DProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/garp-consumer/garp-consumer.iml" filepath="$PROJECT_DIR$/garp-consumer/garp-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/garp-consumer-api/garp-consumer-api.iml" filepath="$PROJECT_DIR$/garp-consumer-api/garp-consumer-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/garp-provider/garp-provider.iml" filepath="$PROJECT_DIR$/garp-provider/garp-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/garp-provider-api/garp-provider-api.iml" filepath="$PROJECT_DIR$/garp-provider-api/garp-provider-api.iml" />
     </modules>
   </component>
 </project>
