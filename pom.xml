@@ -14,6 +14,7 @@
         <module>garp-provider</module>
         <module>garp-provider-api</module>
         <module>test</module>
+        <module>test1</module>
     </modules>
     <properties>
         <java.version>1.8</java.version>
