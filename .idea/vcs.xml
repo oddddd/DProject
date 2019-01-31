@@ -2,8 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/garp-consumer" vcs="" />
-    <mapping directory="$PROJECT_DIR$/garp-provider" vcs="svn" />
-    <mapping directory="$PROJECT_DIR$/garp-provider-api" vcs="svn" />
+    <!--<mapping directory="$PROJECT_DIR$/garp-consumer" vcs="Git" />-->
+    <!--<mapping directory="$PROJECT_DIR$/garp-provider" vcs="Git" />-->
+    <!--<mapping directory="$PROJECT_DIR$/garp-provider-api" vcs="Git" />-->
   </component>
 </project>
